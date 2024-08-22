@@ -7,7 +7,7 @@ const Counter = () => {
     const decrementCounter = () => setCounter(counter - 1)
     const resetCounter = () => setCounter(0)
   return (
-    <div className="bg-secondary text-center w-50 mx-auto rounded-3">
+    <div className="bg-secondary text-center w-50   mx-auto rounded-3">
 <h2 className="text-info py-2">{counter}</h2>
 <div className="d-flex justify-content-center mb-4 py-3">
 <button className="btn btn-info mx-3 fw-bold " onClick={incrementCounter}>+</button>

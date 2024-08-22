@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "product_id": 1,
+      "product_name": "Iphone 15",
+      "product_desc": "lorem ipsum dolor sit amet, consectetur adip inc commodo er suscip it aliquet sed diam nonumy eirmod tempor inv Unlock et aliquy par i incididunt ut lab et aliquy par i incididunt ut lab et aliquy par i incid",
+      "product_category": "Smartphone"
+    },
+    {
+      "product_id": 2,
+      "product_name": "Samsung Galaxy S21",
+      "product_desc": "lorem ipsum dolor sit amet, consectetur adip inc commodo er suscip it aliquet sed diam nonumy eirmod tempor inv Unlock et aliquy par i incididunt ut lab et aliquy par i incididunt ut lab et aliquy par i incid",
+      "product_category": "Smartphone"
+    },
+    {
+      "product_id": 3,
+      "product_name": "Xiaomi Mi 11",
+      "product_desc": "lorem ipsum dolor sit amet, consectetur adip inc commodo er suscip it aliquet sed diam nonumy eirmod tempor inv Unlock et aliquy par i incididunt ut lab et aliquy par i incididunt ut lab et aliquy par i incid",
+      "product_category": "Smartphone"
+    },
+    {
+      "product_id": 4,
+      "product_name": "Dell ",
+      "product_desc": "lorem ipsum dolor sit amet, consectetur adip inc commodo er suscip it aliquet sed diam nonumy eirmod tempor inv Unlock et aliquy par i incididunt ut lab et aliquy par i incididunt ut lab et aliquy par i incid",
+      "product_category": "Laptops"
+    },
+    {
+      "product_id": 5,
+      "product_name": "HP ",
+      "product_desc": "lorem ipsum dolor sit amet, consectetur adip inc commodo er suscip it aliquet sed diam nonumy eirmod tempor inv Unlock et aliquy par i incididunt ut lab et aliquy par i incididunt ut lab et aliquy par i incid",
+      "product_category": "Laptops"
+    },
+    {
+      "product_id": 6,
+      "product_name": "Lenovo ",
+      "product_desc": "lorem ipsum dolor sit amet, consectetur adip inc commodo er suscip it aliquet sed diam nonumy eirmod tempor inv Unlock et aliquy par i incididunt ut lab et aliquy par i incididunt ut lab et aliquy par i incid",
+      "product_category": "Laptops"
+    }
+  ]
+}
