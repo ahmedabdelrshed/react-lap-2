@@ -1,5 +1,6 @@
 
 import './App.css'
+import GuessGame from './components/guessGame/GuessGame'
 import Navbar from './components/Navbar'
 import ProductList from './components/products/ProductList'
 function App() {
@@ -32,6 +33,7 @@ function App() {
      {/* Lap 3 */}
 <Navbar/>
 <ProductList/>
+<GuessGame/>
     </>
   )
 }

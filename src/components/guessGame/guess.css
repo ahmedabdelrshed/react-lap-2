@@ -1,0 +1,7 @@
+.box {
+    width: fit-content;
+    padding: 30px 40px;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    text-align: center;
+}
