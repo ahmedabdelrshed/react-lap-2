@@ -1,8 +1,7 @@
+import "./App.css";
+import { RouterProvider } from "react-router-dom";
+import router from "./router";
 
-import './App.css'
-import GuessGame from './components/guessGame/GuessGame'
-import Navbar from './components/Navbar'
-import ProductList from './components/products/ProductList'
 function App() {
   // const questions = [{
   //   id: 1,
@@ -26,16 +25,9 @@ function App() {
   // }]
   return (
     <>
-     {/* <Counter/>
-     <Questions questionsList={questions}/>
-     <Calculation/> */}
-
-     {/* Lap 3 */}
-<Navbar/>
-<ProductList/>
-<GuessGame/>
+      <RouterProvider router={router}></RouterProvider>
     </>
-  )
+  );
 }
 
-export default App
+export default App;

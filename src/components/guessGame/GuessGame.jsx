@@ -51,6 +51,8 @@ const GuessGame = () => {
               onChange={(e) => {
                 setInputNumber(e.target.value);
               }}
+              min={1}
+              max={100}
               className="form-control w-25 mx-2"
             />
             <button className="btn btn-secondary mx-2">Submit</button>
