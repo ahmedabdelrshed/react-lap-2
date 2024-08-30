@@ -1,7 +1,7 @@
 {
   "products": [
     {
-      "id": 1,
+      "id": "1",
       "name": "IPhone 15 Pro",
       "desc": "Apple iPhone 15 Pro Max (256 GB) - Deep Purple, Bluetooth, Wi-Fi + 12 months extended warranty",
       "category": "Smartphone",
@@ -9,7 +9,7 @@
       "price": 2500
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Samsung S23",
       "desc": "Samsung Galaxy S23 Ultra, 12GB, Phantom Black, Mobile Phone, Dual SIM, 1 Year Manufacturer Warranty",
       "category": "Smartphone",
@@ -17,7 +17,7 @@
       "price": 2400
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "OPPO Reno10 5G",
       "desc": "256GB 8GB Silvery Grey + Free Enco earbuds + 2in1 Gift BOX + 12 months extended warranty",
       "category": "Smartphone",
@@ -25,7 +25,7 @@
       "price": 1500
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Dell Alienware ",
       "desc": "R5 Gaming Laptop | Core Ryzen 9 - 1TB SSD - 64GB RAM - 3080 Ti | 8 Cores @ 4.9 GHz - 12GB GDDR6X | 11 Home in S Mode",
       "category": "Laptops",
@@ -33,7 +33,7 @@
       "price": 1500
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "ASUS ROG ",
       "desc": "144Hz, GeForce RTX 3050, AMD Ryzen™ 7 6800H/HS, 16GB DDR5, 512GB PCIe SSD, Windows 11.",
       "category": "Laptops",
@@ -41,12 +41,15 @@
       "price": 1800
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "Lenovo Pad ",
       "desc": "Intel Celeron N4020, 4GB RAM, 64GB Storage, Intel UHD Graphics 600, Win 11 in S Mode, Cloud Grey",
       "category": "Laptops",
       "image": "https://ahmedabdelrshed.github.io/online-store/images/71bphKmt0DL._AC_UY327_FMwebp_QL65_.webp",
       "price": 1900
+    },
+    {
+      "id": "0dfc"
     }
   ]
 }

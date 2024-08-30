@@ -20,7 +20,7 @@ const ProductCard = ({name,description,id,image,price}) => {
       <p className="card-text">{description}</p>
       <p className="card-text">Price :  <span className="bg-warning text-dark">{price}</span> 
       </p>
-      <Link to={`/product/${id}`} className="btn btn-warning btn-outline-dark" >More Details</Link>
+      <Link to={`/products/${id}`} className="btn btn-warning btn-outline-dark" >More Details</Link>
   </div>
   </div>
   )
